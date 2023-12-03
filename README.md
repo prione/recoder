@@ -1,5 +1,6 @@
 # recoder
 Recorder that can seamlessly switch between internal/external audio and recording devices while recording
+
 内部/外部オーディオと録音デバイスをシームレスに切り替えながら録音できるレコーダー
 
 
