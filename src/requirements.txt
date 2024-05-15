@@ -1,0 +1,6 @@
+cffi==1.16.0
+numpy==1.26.2
+Pillow==10.1.0
+pycparser==2.21
+SoundCard==0.4.2
+soundfile==0.12.1
